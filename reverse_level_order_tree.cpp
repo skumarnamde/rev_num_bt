@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+//
 // C++ implementation to print odd number from bottom right
 #include <bits/stdc++.h> 
 using namespace std; 
